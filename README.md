@@ -3,6 +3,10 @@ Short description and motivation.
 
 ## Usage
 How to use my plugin.
+* generate migrations
+* run migrations
+* Add this to your routes: mount BigSite::Engine, at: "/"
+* Add //= link big_site/application.css to app/assets/config/manifest.js
 
 ## Installation
 Add this line to your application's Gemfile:

@@ -7,11 +7,11 @@ require "big_site/version"
 Gem::Specification.new do |spec|
   spec.name        = "big_site"
   spec.version     = BigSite::VERSION
-  spec.authors     = [""]
-  spec.email       = [""]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of BigSite."
-  spec.description = "TODO: Description of BigSite."
+  spec.authors     = ["Tony Stubblebine"]
+  spec.email       = ["tony@tonystubblebine.com"]
+  spec.homepage    = "http://tonystubblebine.com"
+  spec.summary     = "A multi-tenancy engine for SAAS sites"
+  spec.description = "Help SAAS products create multiple sites that run on the same server."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
